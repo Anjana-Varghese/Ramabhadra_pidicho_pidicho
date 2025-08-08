@@ -69,13 +69,8 @@ npm start
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="2500" height="2000" alt="frame (3)" src="https://chatgpt.com/backend-api/estuary/content?id=file-JLajkVzwNedR64xrYsFBS3&ts=487415&p=fs&cid=1&sig=2175295c6753de19c5361c69d95c997d3fd89bf1ca856169baa3d29550678bc0" />
+<img width="2500" height="2000" alt="frame (3)" src="" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
