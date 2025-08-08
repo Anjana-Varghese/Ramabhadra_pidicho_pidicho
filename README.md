@@ -1,7 +1,7 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/26732ba4-9eb4-4ee0-a3cb-46acc48e6f9f" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# Click Me🎯
+# Project Name :Click Me🎯
 
 
 ## Basic Details
@@ -23,8 +23,11 @@ People these days are catching buttons way too easily. Clicking “OK” has bec
 We made the buttons run. And the sliders slide themselves. And the checkboxes uncheck themselves. And we added random Malayalam movie dialogues and fake pop-ups just to make sure you’ll never successfully click anything again.
 
 ## Technical Details
+
 ### Technologies/Components Used
+
 For Software:
+
 Languages used: HTML, CSS, JavaScript
 
 Frameworks used: None (Vanilla JS)
@@ -40,6 +43,7 @@ FontAwesome – Meme icons
 Giphy API – Random meme GIF popups
 
 Tools used: VS Code, npm
+
 For Hardware:
 None (unless you count your patience and a decent mouse)
 
@@ -58,14 +62,14 @@ cd everything-avoids-cursor-malayalam
 npm install
 
 #Run
+
 npm start
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="2500" height="2000" alt="frame (3)" src="https://chatgpt.com/backend-api/estuary/content?id=file-JLajkVzwNedR64xrYsFBS3&ts=487415&p=fs&cid=1&sig=2175295c6753de19c5361c69d95c997d3fd89bf1ca856169baa3d29550678bc0" />
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
