@@ -1,0 +1,47 @@
+# Node
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# Next.js
+.next
+out
+.vercel
+
+# Build outputs
+dist
+build
+
+# Caches
+.cache
+.turbo
+.parcel-cache
+.next/cache
+.eslintcache
+*.tsbuildinfo
+
+# Testing / Coverage
+coverage
+.nyc_output
+playwright-report
+test-results
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/ 
