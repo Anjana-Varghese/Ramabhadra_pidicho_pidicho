@@ -10,8 +10,8 @@
 
 ### Team Members
 - Team Lead:Anjana Varghese - Sahrdaya College of Engineering and Technology
-- Member 2:Anjana Varghese - Sahrdaya College of Engineering and Technology
-- Member 3:Annmariya P S - Sahrdaya College of Engineering and Technology
+- Member 3: Annmariya P S- Sahrdaya College of Engineering and Technology
+
   
 ### Project Description
 A desktop-only JavaScript chaos simulator that fills your screen with fake desktop icons, buttons, sliders, tabs, floating emojis, and Malayalam meme audio all programmed to run away from your cursor like scared cockroaches. Every hover triggers animations, sounds, pop-ups, and trolling UI behaviors designed to make you laugh (or rage quit).
