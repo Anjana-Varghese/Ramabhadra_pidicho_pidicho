@@ -47,8 +47,7 @@ Tools used: VS Code, npm
 For Hardware:
 None (unless you count your patience and a decent mouse)
 
-### Implementation
-For Software:
+## Implementation
 
 ## Installation
 
