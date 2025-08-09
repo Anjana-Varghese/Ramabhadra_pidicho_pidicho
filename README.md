@@ -14,7 +14,7 @@
 - Member 3:Annmariya P S - Sahrdaya College of Engineering and Technology
   
 ### Project Description
-A desktop-only JavaScript chaos simulator that fills your screen with fake desktop icons, buttons, sliders, tabs, floating emojis, and Malayalam meme audio — all programmed to run away from your cursor like scared cockroaches. Every hover triggers animations, sounds, pop-ups, and trolling UI behaviors designed to make you laugh (or rage quit).
+A desktop-only JavaScript chaos simulator that fills your screen with fake desktop icons, buttons, sliders, tabs, floating emojis, and Malayalam meme audio all programmed to run away from your cursor like scared cockroaches. Every hover triggers animations, sounds, pop-ups, and trolling UI behaviors designed to make you laugh (or rage quit).
 
 ### The Problem (that doesn't exist)
 People these days are catching buttons way too easily. Clicking “OK” has become boring. Nobody’s heart races when trying to close a window anymore. We needed to fix this “fun shortage” in the clicking world.
@@ -52,7 +52,7 @@ None (unless you count your patience and a decent mouse)
 ### Installation
 
 # Clone the repo
-git clone https://github.com/yourusername/everything-avoids-cursor-malayalam.git
+git clone https://github.com/Anjana-Varghese/Ramabhadra_pidicho_pidicho.git
 
 # Move into the project folder
 cd everything-avoids-cursor-malayalam
