@@ -76,13 +76,15 @@ For Software:
 
 ### Project Demo
 # Video
+
 "https://github.com/Anjana-Varghese/Ramabhadra_pidicho_pidicho/blob/dff84687cb54ccc9b26b68a3ccebf17ea5c51d85/video.mp4"
 
-*Explain what the video demonstrates*
+### Live Demo  
 
+https://ramabhadra-pidicho-pidicho.vercel.app/
 
 ## Team Contributions
-Member 1 – [Anjana Varghese]
+Member 1 – Anjana Varghese
 
 Made the buttons and elements run away from the cursor
 
@@ -92,7 +94,7 @@ Built sliders, checkboxes, and multiplying buttons
 
 Created the fake desktop and meme popups
 
-Member 2 – [Annmariya P S]
+Member 2 – Annmariya P S
 
 Collected and edited the Malayalam meme sounds
 
