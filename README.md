@@ -10,7 +10,7 @@
 
 ### Team Members
 - Team Lead:Anjana Varghese - Sahrdaya College of Engineering and Technology
-- Member 3: Annmariya P S- Sahrdaya College of Engineering and Technology
+- Member 2: Annmariya P S- Sahrdaya College of Engineering and Technology
 
   
 ### Project Description
