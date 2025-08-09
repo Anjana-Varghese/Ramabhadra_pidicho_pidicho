@@ -55,7 +55,7 @@ None (unless you count your patience and a decent mouse)
 git clone https://github.com/Anjana-Varghese/Ramabhadra_pidicho_pidicho.git
 
 # Move into the project folder
-cd everything-avoids-cursor-malayalam
+cd Ramabhadra_pidicho_pidicho
 
 # Install dependencies
 npm install
@@ -75,7 +75,7 @@ npm start
 ### Project Demo
 # Video
 
-"https://github.com/Anjana-Varghese/Ramabhadra_pidicho_pidicho/blob/dff84687cb54ccc9b26b68a3ccebf17ea5c51d85/video.mp4"
+https://github.com/Anjana-Varghese/Ramabhadra_pidicho_pidicho/blob/dff84687cb54ccc9b26b68a3ccebf17ea5c51d85/video.mp4
 
 ### Live Demo  
 
