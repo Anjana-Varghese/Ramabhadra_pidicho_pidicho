@@ -66,9 +66,8 @@ npm install
 npm start
 
 ### Project Documentation
-For Software:
 
-# Screenshots (Add at least 3)
+# Screenshot
 
 <img width="2500" height="2000" alt="frame (3)" src="https://github.com/Anjana-Varghese/Ramabhadra_pidicho_pidicho/blob/326a8ac502d1d47a3f2b546868dd71a0758c00c9/useless.png" />
 
