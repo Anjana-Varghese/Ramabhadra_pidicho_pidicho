@@ -50,7 +50,7 @@ None (unless you count your patience and a decent mouse)
 ### Implementation
 For Software:
 
-Installation
+## Installation
 
 # Clone the repo
 git clone https://github.com/yourusername/everything-avoids-cursor-malayalam.git
